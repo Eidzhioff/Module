@@ -5,8 +5,8 @@
 To use the module, you need to go to the cmd directory where the files are located and enter the following commands:
 
 
-''
-cd [directory]
-python setup.py build
-python setup.py install
-''
+
+''cd [directory]''
+''python setup.py build''
+''python setup.py install''
+
