@@ -7,6 +7,10 @@ To use the module, you need to go to the cmd directory where the files are locat
 
 
 'cd [directory]'
+
+
 'python setup.py build'
+
+
 'python setup.py install'
 
