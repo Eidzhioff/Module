@@ -39,3 +39,11 @@ time complexity:
 * O(n * n)
 * O(n log n)
 * O(n log n)
+
+## Peculiarities
+
+All code of the module was written in C. In the course of work, we got acquainted with the API Reference Manual, namely _List Objects_, _Sequence Protocol_, _Floating Point Objects_. Learned to define python - class
+
+## Examples
+
+You can find examples in the _main.py_ file
