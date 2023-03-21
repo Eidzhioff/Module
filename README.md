@@ -1,5 +1,5 @@
 ![](img.png)
-##How to connect the module
+#How to connect the module
 
 
 >To use the module you need to read the [instructions](https://docs.google.com/document/d/19MxN56CTe5EYoF1h4ljvrmEvjdafgiBWdPQojFqUwz8/edit?usp=sharing)
