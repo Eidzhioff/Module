@@ -47,3 +47,10 @@ All code of the module was written in C. In the course of work, we got acquainte
 ## Examples
 
 You can find examples in the _main.py_ file
+
+## Time win
+
+We compared the running time of our functions with the built-in function in python. Python uses different methods depending on the size of the array. We decided to remove insertion sort starting from the dimension equal to 10000. It turned out that heap sort was able to win over python in time.
+
+![](first_time.png)
+![](second_time.png)
