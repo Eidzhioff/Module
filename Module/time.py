@@ -64,7 +64,7 @@ def compare_timings (n, iterations=20, insertionSortFlag=1):
 
 
 def print_compare_timings(all_n, iterations=20, insertionSortFlag=1):
-    types_sort = ["INSERTION SORT", "MERGE SORT", "PYRAMID SORT", "PYTHON SORT - TimeSort"]
+    types_sort = ["INSERTION SORT", "MERGE SORT", "PYRAMID SORT", "PYTHON SORT - TimSort"]
     all_results=[]
 
     for i in all_n:
