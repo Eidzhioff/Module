@@ -54,3 +54,5 @@ We compared the running time of our functions with the built-in function in pyth
 
 ![](first_time.png)
 ![](second_time.png)
+
+*Timsort
